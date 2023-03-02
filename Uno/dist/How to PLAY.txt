@@ -1,0 +1,59 @@
+#PT/BR
+Cartas:
+	Amarelo, Azul, Verde e Vermelho:
+		Números (0, 9) 
+		Ação (+2, Inverter e Bloqueio)
+	Cinza:
+		Ação (+4, Mudar Cor)
+
+Aperte no botão look (olho) para mostrar suas cartas
+Jogue a carta correspodente a mesa (numero ou cor).
+Cartas cinzas podem ser usadas em qualquer tipo, exceto se a carta na mesa for uma +2 ou +4, com isso só pode ser usada a +2 ou +4.
+Combos de cartas:
+	Sequência (Números):
+		- Pode ser usada seguindo a cor ou numero. 
+			Mesma cor: números diferentes ou iguais
+			Mesmo número: números iguais 
+			Ex.: 0(verde), 1(verde), 2(verde), 2(amarelo), 3(amarelo), 3(azul), 4(azul)
+	Sequência (Ação):
+		- Pode ser usada seguindo o mesmo tipo:
+		Ex.: +2(verde), +2(azul), +4(cinza)
+		Ex.: block(verde), block(amarelo), block(azul)
+Poder das Cartas:
+	0 - Pode trocar TODAS as suas cartas com qualquer adversário
+	Bloqueio - A quantidade de Bloqueio utilizada determina a quantidade de adversários bloqueados de jogar
+	Inverte - Muda a direção se for usado em números ímpares
+	Mudar Cor - Muda a cor atual para uma cor escolhida por quem jogou esta carta
+	+2, +4 - Entrega a quantidade de cartas para o próximo jogador. Se a última carta for +4, o próximo jogador não jogará nesta rodada
+	
+Ganha quem jogar todas as cartas na mesa 
+
+#ENGLISH
+Cards
+	Yellow, Blue, Green, Red:
+		Numbers (0, 9) 
+		Action (+2, Invert e Block)
+	Gray:
+		Ação (+4, Change Color)
+
+Click on look button (eye) to show your cards
+Play the card corresponding with the table (number or color).
+Gray cards can be used of any type, except if the table card is +2 or +4, in which case it can only be used +2 or +4
+Cards Combo:
+	Sequence (Numbers):
+		- Can be used following the color or number
+			Same color: different numbers or equals
+			Same number: equals numbers
+			Ex.: 0(green), 1(green), 2(green), 2(yellow), 3(yellow), 3(blue), 4(blue)
+	Sequência (Ação):
+		- Can be used following the same type
+		Ex.: +2(green), +2(green), +4(gray)
+		Ex.: block(green), block(green), block(blue)
+Cards Powers:
+	0 - Can trade ALL your cards with any opponent
+	Bloqueio - The amount of Block used determines the amount of opponents blocked
+	Invert - Swap the direction if used on odd numbers
+	Change Color - Swaps the current color for another chosen by whoever played this card
+	+2, +4 - Gives the amount of cards to the next player. If the last card is +4, the next player does not play this round.
+	
+Whoever plays all the cards on the table wins.
