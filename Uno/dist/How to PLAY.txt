@@ -9,6 +9,8 @@ Cartas:
 Aperte no botão look (olho) para mostrar suas cartas
 Jogue a carta correspodente a mesa (numero ou cor).
 Cartas cinzas podem ser usadas em qualquer tipo, exceto se a carta na mesa for uma +2 ou +4, com isso só pode ser usada a +2 ou +4.
+Se não tiver a carta compre uma apertando na carta virada. 
+Caso ainda não tiver passe a vez apertando no botão Pass 
 Combos de cartas:
 	Sequência (Números):
 		- Pode ser usada seguindo a cor ou numero. 
@@ -39,6 +41,8 @@ Cards
 Click on look button (eye) to show your cards
 Play the card corresponding with the table (number or color).
 Gray cards can be used of any type, except if the table card is +2 or +4, in which case it can only be used +2 or +4
+If you don't have the card, buy one by pressing the flipped card.
+If you haven't yet, pass your turn by pressing the Pass button. 
 Cards Combo:
 	Sequence (Numbers):
 		- Can be used following the color or number
