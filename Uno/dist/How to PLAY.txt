@@ -10,7 +10,7 @@ Aperte no botão look (olho) para mostrar suas cartas
 Jogue a carta correspodente a mesa (numero ou cor).
 Cartas cinzas podem ser usadas em qualquer tipo, exceto se a carta na mesa for uma +2 ou +4, com isso só pode ser usada a +2 ou +4.
 Se não tiver a carta compre uma apertando na carta virada. 
-Caso ainda não tiver passe a vez apertando no botão Pass 
+Caso ainda não tiver, passe a vez apertando no botão Pass 
 Combos de cartas:
 	Sequência (Números):
 		- Pode ser usada seguindo a cor ou numero. 
